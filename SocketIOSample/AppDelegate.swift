@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  SocketIOSample
-//
-//  Created by Aniket Patil on 03/01/24.
-//
+
 
 import UIKit
 
